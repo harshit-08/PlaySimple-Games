@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+I tried to fetch data from the given APIs but couldn't because of the CORS policy. I have commented out the code to fetch the info in the source code.
+
 ## Available Scripts
 
 In the project directory, you can run:
