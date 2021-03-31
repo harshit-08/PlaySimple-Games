@@ -2,6 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 I tried to fetch data from the given APIs but couldn't because of the CORS policy. I have commented out the code to fetch the info in the source code.
 
+HOMEPAGE - http://localhost:3000
+HAYDAY - http://localhost:3000/hayday
+
 ## Available Scripts
 
 In the project directory, you can run:
